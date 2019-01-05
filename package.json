@@ -13,6 +13,13 @@
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
     "gulp": "^4.0.0",
-    "mongoose": "^5.4.1"
+    "gulp-mocha": "^6.0.0",
+    "mongoose": "^5.4.1",
+    "should": "^13.2.3",
+    "sinon": "^7.2.2"
+  },
+  "devDependencies": {
+    "gulp-env": "^0.4.0",
+    "supertest": "^3.3.0"
   }
 }
